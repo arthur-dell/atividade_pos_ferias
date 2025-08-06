@@ -1,0 +1,12 @@
+img {
+    width: 500px;
+    max-width: 100;
+}
+
+ol, ul {
+    font-family: "Mozilla Headline", sans-serif;
+}
+
+body {
+    background-color: aquamarine;
+}
