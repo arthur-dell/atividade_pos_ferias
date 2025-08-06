@@ -1,12 +1,22 @@
 img {
     width: 500px;
     max-width: 100;
+    border-radius: 5%;
 }
 
 ol, ul {
-    font-family: "Mozilla Headline", sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 body {
-    background-color: aquamarine;
+  background-color: #0d1117;
+  color: #f0f0f0;
+}
+
+h1, h2 {
+  color: #58a6ff;
+}
+
+p{
+    font-family: "Poppins", sans-serif;
 }
